@@ -1,0 +1,9 @@
+[{
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "Weather app",
+      "package_name": "com.example.wether_app",
+      "sha256_cert_fingerprints":
+      ["31:6d:52:52:1f:21:ea:87:f4:ed:23:3c:b5:8a:75:fd:58:fb:4b:53:62:f5:e2:b8:0e:3b:1f:6d:12:47:3d:d5"]
+    }
+  }]
